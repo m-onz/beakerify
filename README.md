@@ -3,9 +3,9 @@ beakerify a website
 
 ```sh
 git clone https://github.com/m-onz/beakerify
-cs beakerify
+cd beakerify
 npm install
-node beakerify.js www.tx11.co.uk
+node beakerify www.tx11.co.uk
 ```
 
 The website will be cloned and shared via dat. Copy the url into the
