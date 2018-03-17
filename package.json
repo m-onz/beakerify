@@ -1,0 +1,27 @@
+{
+  "name": "beakerify",
+  "version": "1.0.0",
+  "description": "beakerify a website",
+  "main": "beakerify.js",
+  "scripts": {
+    "test": "node beakerify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-onz/beakerify.git"
+  },
+  "keywords": [
+    "beaker",
+    "dat",
+    "beakerify"
+  ],
+  "author": "m-onz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-onz/beakerify/issues"
+  },
+  "homepage": "https://github.com/m-onz/beakerify#readme",
+  "dependencies": {
+    "dat-node": "^3.5.8"
+  }
+}
