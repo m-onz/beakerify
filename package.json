@@ -21,7 +21,7 @@
     "url": "https://github.com/m-onz/beakerify/issues"
   },
   "homepage": "https://github.com/m-onz/beakerify#readme",
-  "dependencies": {
-    "dat-node": "^3.5.8"
+  "bin": {
+    "beakerify": "./beakerify.js"
   }
 }
