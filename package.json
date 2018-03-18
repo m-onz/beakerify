@@ -1,7 +1,7 @@
 {
   "name": "beakerify",
   "version": "1.0.0",
-  "description": "beakerify a website",
+  "description": "beakerify a website with wget & dat",
   "main": "beakerify.js",
   "scripts": {
     "test": "node beakerify.js"

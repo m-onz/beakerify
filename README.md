@@ -17,8 +17,6 @@ This uses wget and dat installed globally (npm install dat -g). Tested on a Rasp
 
 
 ### TODO
-
-1. make into a cli tool
-2. add library api
-3. add a test
+1. add library api
+2. add a test
 
