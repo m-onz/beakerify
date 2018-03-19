@@ -4,7 +4,8 @@
   "description": "beakerify a website with wget & dat",
   "main": "beakerify.js",
   "scripts": {
-    "test": "node beakerify.js"
+    "start": "node beakerify.js",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
